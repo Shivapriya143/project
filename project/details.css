@@ -1,0 +1,33 @@
+nav{
+    text-align: center;
+    padding: auto;
+}
+section{
+    width: 800px;
+    border-radius: 15px;
+    margin: auto;
+    padding-top: 2cqh;
+    padding-bottom: 8cqh;
+    text-align: center;
+    justify-content: space-between;
+    background-color: coral;
+}
+main{
+    width: 90%;
+    margin: auto;
+}
+form{
+    padding-left: 21%;
+    background-color: antiquewhite;
+    color: darkgray;
+}
+form input{
+     border: 0;
+}
+form select{
+    border: 0;
+}
+body{
+    background-image: url("BG.jpg");
+    background-size: cover;
+}

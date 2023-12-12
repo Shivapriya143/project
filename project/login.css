@@ -1,0 +1,33 @@
+nav{
+    text-align: center;
+    padding: auto;
+}
+body{
+    background-image: url("lkmg.jpg");
+    background-size: cover;
+}
+section{
+    background-color: violet;
+    width: 500px;
+    border-radius: 10px;
+    margin: auto;
+    padding-top: 1cqh;
+    padding-bottom: 10px;
+}
+main{
+    width: 80%;
+    margin: auto;
+}
+form{
+    text-align: center;
+    border: 0;
+}
+span{
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aliceblue;
+    border-radius: 15px;
+    padding-top: 10px;
+}

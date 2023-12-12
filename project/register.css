@@ -1,0 +1,48 @@
+body{
+    background-color: #fff;
+    background-image: url("bg4.jpg");
+    background-size: cover;
+}
+nav{
+    text-align: center;
+    padding: auto;
+}
+h5{
+    display: flex;
+    justify-content: right;
+}
+pre{  
+    background-color: lavenderblush;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: larger;
+}
+span{
+    display: flex;
+    justify-content: right;
+}
+p{
+    font-size: larger;
+}
+section{
+    width: 600px;
+    border-radius: 15px;
+    margin: auto;
+    padding-top: 2cqh;
+    padding-bottom: 5cqh;
+    text-align: center;
+    justify-content: center;
+}
+main{
+    width: 90%;
+    margin: auto;
+}
+form input{
+    border: 0;
+    padding-left: 3%;
+    justify-content: space-between;
+}
+form{
+    padding-left: 23%;
+}
